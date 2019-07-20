@@ -40,14 +40,6 @@ def shutdown():
     """
     thangans.write(virus)
     thangans.close
-	print 'Processed'
-	print '\33[33m16%'
-	print '\33[34m23%'
-	print '\33[35m57%'
-	print '\33[32m73%'
-	print '\33[33m89%'
-	print '\33[35m100%'
-	print '\33[92mComplete Make Virus'
     print 'Want Create our Virus? (y/n)'
     back=raw_input().upper()
     if back=='y':
