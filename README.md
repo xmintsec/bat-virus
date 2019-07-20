@@ -4,7 +4,7 @@
 <b> AUTHOR : </b> XmintSec<br>
 <b> AUTHOR INSTAGRAM : </b> instagram.com/nthndft<br><br>
 <h3> Installation Step </h3><br>
-$pkg upgrade && apt update <br>
+$apt upgrade && apt update <br>
 $pkg install python-pip<br>
 $pkg install git<br>
 $pkg install python2<br>
